@@ -1,0 +1,17 @@
+def the_number_five():
+ return 5
+ 
+def so_useful(a):
+ return a
+ 
+def add_two(a):
+ return a+2
+ 
+def my_function():
+ say_hello(“Dave”)
+ 
+def say_hello(a):
+ 
+def sum_list(a):
+ 
+def find_item_in_list(a,b):
